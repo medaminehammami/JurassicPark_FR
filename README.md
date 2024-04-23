@@ -1,31 +1,24 @@
-XR Dinosaurs
-============
+# Musée d'exploration virtuelle des dinosaures
 
-Come visit our friendly bunch of prehistoric creatures through the magic of Virtual Reality!
+Bienvenue au Musée d'exploration virtuelle des dinosaures ! Ce projet propose une aventure palpitante à travers le temps, permettant aux visiteurs d'interagir avec des dinosaures dans leur habitat préhistorique grâce à une technologie de pointe en matière de réalité virtuelle. De la machine à voyager dans le temps qui transporte les visiteurs des millions d'années en arrière, à l'époque des dinosaures, aux expositions qui explorent l'histoire et la culture de ces créatures anciennes, le musée offre un voyage inoubliable pour tous les âges, ce qui en fait une expérience attrayante et éducative pour tout le monde.
 
-[https://xrdinosaurs.com](https://xrdinosaurs.com)
+## Structure du projet
 
-This site was built to be a fun experience for all ages that takes advantage of the sense of scale that VR and AR can deliver, as well as functioning as a demonstration of the latest and greatest capabilities of the [WebXR Device API](https://immersive-web.github.io/webxr/) and it's various extended modules.
 
-Media Attribution
-=================
+- **index.html**: Entry point for the VR experience.
+- **assets/**
+  - **dino/**: Directory for 3D models.
+  - **media/**: Directory for media files.
+  - **mesu/**: Directory for miscellaneous files.
+- **js/**: JavaScript logic for the VR experience.
+- **css/**
+  - **dinosaur.css**: Styles for the web experience.
 
-Models
-------
+## Pour commencer
 
- - "[All Dinosaur models](https://sketchfab.com/JoseDiaz)" by [Jose Diaz](https://dogzerx.blogspot.com/) and purchased from SketchFab under their [Standard License](https://sketchfab.com/licenses).
- - "[Jurassic Park Jaula](https://sketchfab.com/3d-models/jurassic-park-jaula-0f309eeffcf1492ca176bfa27fa21917)" environment by Gigano Regulus
+Pour découvrir le Musée d'exploration virtuelle des dinosaures, il suffit d'ouvrir `index.html` dans un navigateur web compatible ou un appareil VR. Assurez-vous que vous disposez des ressources et des dépendances nécessaires au bon déroulement du projet.
 
-Images
-------
 
- - "[Misty Pines](https://hdrihaven.com/hdri/?c=nature&h=misty_pines)" 360 photo by HDRI Haven
 
-Audio
------
 
- - "[Tree Frog and Bird Sound](http://soundbible.com/540-Tree-Frogs-And-Birds.html)" audio by Mike Koenig
- - "[Diesel Horn](https://freesound.org/people/thepodcastdoctor/sounds/486660/)" audio by thepodcastdoctor
- - "[Heavy Dinosaur Footsteps](https://freesound.org/people/theguitarmanjp/sounds/385013/)" audio by theguitarmanjp
- - "[Soft Footsteps Gravel/Leaves/Dirt/Pavement](https://freesound.org/people/newagesoup/sounds/342475/)" audio by newagesoup
- - "[Click](https://freesound.org/people/Vilkas_Sound/sounds/707038/) audio by Vilkas_Sound
+
